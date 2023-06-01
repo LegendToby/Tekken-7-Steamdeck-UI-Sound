@@ -6,9 +6,7 @@
   "manifest_version": 2,
   "music": false,
   "ignore": [
-  "bumper_end.wav",
   "deck_ui_achievement_toast.wav",
-  "deck_ui_bumper_end_02.wav",
   "deck_ui_into_game_detail.wav",
   "deck_ui_launch_game.wav",
   "deck_ui_message_toast.wav",
